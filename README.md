@@ -1,7 +1,14 @@
 # Spotify Clone — 16 Songs For The Number 16
 
 ## Demo en vivo
-👉 [Ver app online](#)
+[Ver app online](https://spotify-clone-weld-eight.vercel.app/)
+```
+
+Guardás, y en el cmd:
+```
+git add README.md
+git commit -m "docs: add live demo link"
+git push
 
 ## Descripción
 Clon de Spotify construido con React y Vite. Player de música funcional con visualizador de audio animado, playlist personalizada con 16 canciones de Bad Bunny, Rauw Alejandro, Omar Courtz y Anuel AA.
